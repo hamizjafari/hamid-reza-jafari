@@ -8,8 +8,6 @@ I will upload my previous information and resume soon and now in github.
 
 - 📫 How to reach me ( Telegram : @hamizjafari / Phone (iran) : (+98)9335091618 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamizjafari&repo=banama-client)](https://github.com/hamizjafari/banama-client)
-
 <!---
 hamid-reza-jafari/hamid-reza-jafari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
